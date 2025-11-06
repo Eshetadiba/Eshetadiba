@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esheta
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently pursuing BE course at Computer Engineering 
+- 🌱 I’m currently pursuing M.Sc course at Computer Science and Technology in Ulster University
 
 
 <!---
